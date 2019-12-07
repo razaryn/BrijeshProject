@@ -1,2 +1,0 @@
-# BrijeshProject
-My projects
